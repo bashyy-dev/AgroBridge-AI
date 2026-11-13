@@ -1,4 +1,4 @@
-# AgroBridge-AI 🌱
+# AgroBridge-AI 
 
 ### AI-Powered Agricultural Assistant
 
@@ -8,7 +8,7 @@ to mitigate post-harvest losses.
 
 **Project:** ATF Challenge 2027
 
-## 🎯 Project Overview
+## Project Overview
 
 AgroBridge-AI aims to empower small holder farmers with 
 accessible AI-driven agricultural guidance.
@@ -18,7 +18,7 @@ farmers make informed decisions throughout different stages
 of the crop lifecycle, from planting to harvesting and 
 post-harvest management.
 
-## 🚀 Core Objectives
+## Core Objectives
 
 - Provide accessible agricultural information.
 - Support farmers through different crop growth stages.
@@ -26,7 +26,7 @@ post-harvest management.
 - Help reduce post-harvest losses.
 - Deliver practical, AI-powered agricultural recommendations.
 
-## 🛠️ Project Structure
+## Project Structure
 
 AgroBridge-AI/
 │
@@ -41,7 +41,7 @@ AgroBridge-AI/
 │
 └── README.md
 
-## 💻 Technologies
+## Technologies
 
 Technologies will be determined as development progresses.
 
@@ -53,11 +53,11 @@ Potential technologies include:
 - Text-to-Speech
 - APIs
 
-## 👥 Team
+## Team
 
 ATF AI Challenge 2027
 
-## 📌 Project Status
+## Project Status
 
 Currently in the initial development and 
 project setup phase.
